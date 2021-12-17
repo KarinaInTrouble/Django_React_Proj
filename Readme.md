@@ -5,4 +5,4 @@
 Подсистема «DOT Edu» - платформа дистанционного образования, которая позволяет преподавателям регистрировать выдачу учебных материалов студентам
 и пополнять базу учебников своими методическими работами. 
 
- https://sun9-9.userapi.com/impg/lesokhvOtYTyWk7dipQWLUIExDr4O0l9eaDNkQ/6Q1Im95k3_U.jpg?size=623x504&quality=96&sign=1c9b768c6505c0156218d1aeddaae1d0&type=album
+![Screenshot](1.png)
